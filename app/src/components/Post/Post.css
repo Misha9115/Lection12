@@ -1,0 +1,67 @@
+
+.text{
+    width: 50%;
+}
+.texted{
+    width: 50%;
+    text-align: left;
+
+}
+
+.box{
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+}
+.INandBU{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+    margin: 15px 0;
+}
+.LIK{
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border-radius: 5px;
+    border: 1px solid #3f3fa2;
+    margin: 5px auto;
+    justify-content: space-around;
+}
+.L0V{
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border-radius: 5px;
+    border: 1px solid #d23b3b;
+    margin: 5px auto;
+    justify-content: space-around;
+}
+.BLLCLIK{
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border-radius: 5px;
+
+    border: 1px solid #d23b3b;
+    margin: 5px auto;
+    justify-content: space-around;
+    background-color: #d23b3b;
+ 
+}
+.LIKCLIK{
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border-radius: 5px;
+    border: 1px solid #3f3fa2;
+    margin: 5px auto;
+    justify-content: space-around;
+    background-color: #3f3fa2;
+}
